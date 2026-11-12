@@ -1,5 +1,3 @@
-package ex02
-
 fun main() {
     var numero = 1
 
