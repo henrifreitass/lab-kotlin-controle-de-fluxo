@@ -1,5 +1,3 @@
-package ex06
-
 fun main() {
     // opções que eu simulei, em vez de digitar de verdade
     val entradas = listOf(1, 3, 2, 3, 0, 1)
