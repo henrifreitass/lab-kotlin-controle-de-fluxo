@@ -10,4 +10,4 @@ fun main() {
         }
         numero++ // não achou, tenta o próximo
     }
-}
+} 
