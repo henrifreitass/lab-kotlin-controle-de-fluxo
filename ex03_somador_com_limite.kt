@@ -1,5 +1,3 @@
-package ex03
-
 fun main() {
     var total = 0
 
