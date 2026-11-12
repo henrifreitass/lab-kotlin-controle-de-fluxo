@@ -1,5 +1,3 @@
-package ex01
-
 fun main() {
     val palavra = "Universidade"
     val vogais = "aeiou"
