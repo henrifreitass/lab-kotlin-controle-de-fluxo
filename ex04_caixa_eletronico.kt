@@ -1,5 +1,3 @@
-package ex04
-
 fun main() {
     var saldo = 1000.0
     val valorSaque = 150.0
