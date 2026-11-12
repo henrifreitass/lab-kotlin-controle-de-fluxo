@@ -17,4 +17,4 @@ fun main() {
     } else {
         println("$alvo não é primo")
     }
-}
+} 
