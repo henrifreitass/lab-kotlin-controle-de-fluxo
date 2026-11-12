@@ -1,5 +1,3 @@
-package ex08
-
 fun main() {
     val senhaCorreta = "1234"
     // senhas que eu simulei, dá pra trocar pra testar outros casos
