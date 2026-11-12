@@ -5,7 +5,7 @@ fun main() {
     for (letra in palavra) {
         // lowercase() colocar todas letras em minúsculas incluindo "U",
         // pois logicamente é diferente de "u"
-        if (letra.lowercaseChar() in vogais) {
+        if (letra.lowercase() in vogais) {
             continue // se for vogal pula pra próxima letra sem imprimir
         }
         print(letra)
