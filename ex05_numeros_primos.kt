@@ -1,5 +1,3 @@
-package ex05
-
 fun main() {
     val alvo = 29
     // começa achando que é primo (menor que 2 já não é primo)
